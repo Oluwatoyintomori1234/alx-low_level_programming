@@ -1,4 +1,4 @@
-#include "school.h"
+#include "holberton.h"
 
 /**
  * main - Entry point
